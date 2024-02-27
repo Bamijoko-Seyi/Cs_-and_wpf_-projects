@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Csharp work\Serialization example\Serialization example\obj\Debug\net7.0\Serialization example.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Csharp work\Serialization example\Serialization example\obj\Debug\net7.0\Serialization example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Csharp work\Serialization example\Serialization example\obj\Debug\net7.0\Serialization example.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Csharp work\Serialization example\Serialization example\obj\Debug\net7.0\Serialization example.AssemblyInfo.cs
+C:\Users\user\Documents\Csharp work\Serialization example\Serialization example\obj\Debug\net7.0\Serialization example.csproj.CoreCompileInputs.cache

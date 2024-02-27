@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.AssemblyInfo.cs
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\bin\Debug\net6.0\Plaindrome_cs.exe
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\bin\Debug\net6.0\Plaindrome_cs.deps.json
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\bin\Debug\net6.0\Plaindrome_cs.runtimeconfig.json
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\bin\Debug\net6.0\Plaindrome_cs.dll
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\bin\Debug\net6.0\Plaindrome_cs.pdb
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.dll
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\refint\Plaindrome_cs.dll
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.pdb
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\Plaindrome_cs.genruntimeconfig.cache
+C:\Users\user\Documents\Csharp work\Plaindrome_cs\Plaindrome_cs\obj\Debug\net6.0\ref\Plaindrome_cs.dll
