@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\bin\Debug\Attributes and Reflections.exe.config
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\bin\Debug\Attributes and Reflections.exe
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\bin\Debug\Attributes and Reflections.pdb
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\obj\Debug\Attributes and Reflections.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\obj\Debug\Attributes and Reflections.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\obj\Debug\Attributes and Reflections.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\obj\Debug\Attributes and Reflections.exe
+C:\Users\user\Documents\Csharp work\Attributes and Reflections\Attributes and Reflections\obj\Debug\Attributes and Reflections.pdb

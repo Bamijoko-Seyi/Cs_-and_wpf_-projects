@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\bin\Debug\net7.0\Attributes and Serialization.deps.json
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\bin\Debug\net7.0\Attributes and Serialization.dll
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\bin\Debug\net7.0\Attributes and Serialization.pdb
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.AssemblyInfo.cs
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.dll
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\refint\Attributes and Serialization.dll
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\Attributes and Serialization.pdb
+C:\Users\user\Documents\Csharp work\Attributes and Serialization\Attributes and Serialization\obj\Debug\net7.0\ref\Attributes and Serialization.dll
