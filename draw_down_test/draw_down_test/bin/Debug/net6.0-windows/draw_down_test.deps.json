@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "draw_down_test/1.0.0": {
+        "runtime": {
+          "draw_down_test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "draw_down_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
