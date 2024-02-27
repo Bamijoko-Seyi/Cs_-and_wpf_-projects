@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\bin\Debug\Exercism Playground.exe.config
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\bin\Debug\Exercism Playground.exe
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\bin\Debug\Exercism Playground.pdb
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\obj\Debug\Exercism Playground.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\obj\Debug\Exercism Playground.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\obj\Debug\Exercism Playground.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\obj\Debug\Exercism Playground.exe
+C:\Users\user\Documents\Csharp work\Exercism Playground\Exercism Playground\obj\Debug\Exercism Playground.pdb
